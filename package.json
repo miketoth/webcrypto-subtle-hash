@@ -1,0 +1,9 @@
+{
+  "name": "webcrypto-subtle-hash",
+  "version": "0.0.1",
+  "description": "hashes a string using the fancy new web crypto APIs",
+  "main": "index.js",
+  "author": "Michael Toth <tofudrummer@gmail.com>",
+  "license": "MIT",
+  "private": false
+}
